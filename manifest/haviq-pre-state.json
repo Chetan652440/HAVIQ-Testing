@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000BrrUTAAZ",
+ "components": [
+  {
+   "type": "PermissionSet",
+   "fullName": "HAVIQ_195_Test_Permission_Set",
+   "lastModifiedDate": "2026-11-20T15:52:46.000Z",
+   "files": [
+    "permissionsets/HAVIQ_195_Test_Permission_Set.permissionset-meta.xml"
+   ]
+  }
+ ]
+}
