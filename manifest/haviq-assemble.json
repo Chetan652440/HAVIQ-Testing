@@ -1,9 +1,0 @@
-{
-  "components" : [ {
-    "prefixes" : [ ],
-    "required" : [ ],
-    "primary" : "force-app/main/default/remoteSiteSettings/HAVIQ_195_Test_Remote_Site.remoteSite-meta.xml",
-    "label" : "RemoteSiteSetting:HAVIQ_195_Test_Remote_Site"
-  } ],
-  "sourceBranch" : "dev"
-}
