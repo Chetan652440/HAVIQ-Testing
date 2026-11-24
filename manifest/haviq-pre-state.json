@@ -1,0 +1,21 @@
+{
+ "deployment": "a06g800000BrrXhAAJ",
+ "components": [
+  {
+   "type": "ValidationRule",
+   "fullName": "Account.HAVIQ_195_Test_Validation_Rule",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/Account/validationRules/HAVIQ_195_Test_Validation_Rule.validationRule-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObject",
+   "fullName": "Account",
+   "lastModifiedDate": "2026-11-24T15:22:42.042Z",
+   "files": [
+    "objects/Account/Account.object-meta.xml"
+   ]
+  }
+ ]
+}
