@@ -1,9 +1,0 @@
-{
-  "components" : [ {
-    "prefixes" : [ ],
-    "required" : [ ],
-    "primary" : "force-app/main/default/layouts/HAVIQ_195_Test_Object__c-HAVIQ 195 Test Layout.layout-meta.xml",
-    "label" : "Layout:HAVIQ_195_Test_Object__c-HAVIQ 195 Test Layout"
-  } ],
-  "sourceBranch" : "dev"
-}
