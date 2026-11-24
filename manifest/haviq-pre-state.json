@@ -1,0 +1,27 @@
+{
+ "deployment": "a06g800000BrQRFAA3",
+ "components": [
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "haviq195BasicLwc",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/haviq195BasicLwc/haviq195BasicLwc.html",
+    "lwc/haviq195BasicLwc/haviq195BasicLwc.js",
+    "lwc/haviq195BasicLwc/haviq195BasicLwc.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "haviq195BasicLwc/haviq195BasicLwc.js",
+   "lastModifiedDate": "2026-11-23T13:58:01.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "haviq195BasicLwc/haviq195BasicLwc.html",
+   "lastModifiedDate": "2026-11-23T13:58:01.000Z",
+   "files": []
+  }
+ ]
+}
