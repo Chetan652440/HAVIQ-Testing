@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000BrQCXAA3",
+ "components": [
+  {
+   "type": "Profile",
+   "fullName": "HAVIQ_195_Test_Profile",
+   "lastModifiedDate": "2026-11-20T11:35:12.000Z",
+   "files": [
+    "profiles/HAVIQ_195_Test_Profile.profile-meta.xml"
+   ]
+  }
+ ]
+}
