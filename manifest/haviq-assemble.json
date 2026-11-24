@@ -1,0 +1,14 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/triggers/HAVIQSampleTrigger.trigger-meta.xml" ],
+    "primary" : "force-app/main/default/triggers/HAVIQSampleTrigger.trigger",
+    "label" : "ApexTrigger:HAVIQSampleTrigger"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HAVIQSampleTriggerTest.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HAVIQSampleTriggerTest.cls",
+    "label" : "ApexClass:HAVIQSampleTriggerTest"
+  } ],
+  "sourceBranch" : "dev"
+}
