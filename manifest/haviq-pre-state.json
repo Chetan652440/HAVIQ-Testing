@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000BrLKvAAN",
+ "components": [
+  {
+   "type": "Layout",
+   "fullName": "HAVIQ_195_Test_Object__c-HAVIQ 195 Test Layout",
+   "lastModifiedDate": "2026-11-23T10:28:05.000Z",
+   "files": [
+    "layouts/HAVIQ_195_Test_Object__c-HAVIQ 195 Test Layout.layout-meta.xml"
+   ]
+  }
+ ]
+}
