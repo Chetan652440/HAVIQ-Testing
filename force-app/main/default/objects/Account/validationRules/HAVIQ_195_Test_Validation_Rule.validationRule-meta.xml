@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HAVIQ_195_Test_Validation_Rule</fullName>
+    <active>true</active>
+    <description>Basic validation rule for HAV-IQ 1.95 regression testing.</description>
+    <errorConditionFormula>LEN(Name) &lt; 2</errorConditionFormula>
+    <errorDisplayField>Name</errorDisplayField>
+    <errorMessage>Account Name must contain at least two characters.</errorMessage>
+</ValidationRule>
