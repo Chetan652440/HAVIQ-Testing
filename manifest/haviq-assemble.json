@@ -1,9 +1,0 @@
-{
-  "components" : [ {
-    "prefixes" : [ ],
-    "required" : [ ],
-    "primary" : "force-app/main/default/flexipages/HAVIQ_195_Test_FlexiPage.flexipage-meta.xml",
-    "label" : "FlexiPage:HAVIQ_195_Test_FlexiPage"
-  } ],
-  "sourceBranch" : "dev"
-}
