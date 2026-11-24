@@ -1,9 +1,0 @@
-{
-  "components" : [ {
-    "prefixes" : [ ],
-    "required" : [ ],
-    "primary" : "force-app/main/default/profiles/HAVIQ_195_Test_Profile.profile-meta.xml",
-    "label" : "Profile:HAVIQ_195_Test_Profile"
-  } ],
-  "sourceBranch" : "dev"
-}
