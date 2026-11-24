@@ -10,4 +10,19 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/SalesNewCustomerEmail</template>
     </alerts>
+    <rules>
+        <fullName>HAVIQ_Test_Workflow_Rule</fullName>
+        <actions>
+            <name>HAV_IQ_Test_Workflow_Alert</name>
+            <type>Alert</type>
+        </actions>
+        <active>false</active>
+        <criteriaItems>
+            <field>Account.Name</field>
+            <operation>contains</operation>
+            <value>HAVIQ</value>
+        </criteriaItems>
+        <description>Workflow Rule created for HAV-IQ deployment testing</description>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
 </Workflow>
