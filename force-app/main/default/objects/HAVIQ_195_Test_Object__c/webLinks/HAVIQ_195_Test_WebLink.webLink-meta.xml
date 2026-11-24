@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HAVIQ_195_Test_WebLink</fullName>
+    <availability>online</availability>
+    <description>Basic WebLink for HAV-IQ 1.95 regression testing.</description>
+    <displayType>link</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>HAVIQ 195 Test WebLink</masterLabel>
+    <openType>noSidebar</openType>
+    <protected>false</protected>
+    <url>https://example.com</url>
+</WebLink>
