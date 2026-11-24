@@ -1,0 +1,23 @@
+{
+ "deployment": "a06g800000BrJNxAAN",
+ "components": [
+  {
+   "type": "ApexClass",
+   "fullName": "HAVIQSampleApexTest",
+   "lastModifiedDate": "2026-11-23T09:51:00.000Z",
+   "files": [
+    "classes/HAVIQSampleApexTest.cls",
+    "classes/HAVIQSampleApexTest.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HAVIQSampleApex",
+   "lastModifiedDate": "2026-11-23T09:51:00.000Z",
+   "files": [
+    "classes/HAVIQSampleApex.cls",
+    "classes/HAVIQSampleApex.cls-meta.xml"
+   ]
+  }
+ ]
+}
