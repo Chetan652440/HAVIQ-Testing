@@ -1,0 +1,20 @@
+{
+ "deployment": "a06g800000BrrKnAAJ",
+ "components": [
+  {
+   "type": "AuraDefinitionBundle",
+   "fullName": "HAVIQ_195_Test_Aura",
+   "lastModifiedDate": null,
+   "files": [
+    "aura/HAVIQ_195_Test_Aura/HAVIQ_195_Test_Aura.cmp",
+    "aura/HAVIQ_195_Test_Aura/HAVIQ_195_Test_Aura.cmp-meta.xml"
+   ]
+  },
+  {
+   "type": "AuraDefinitionBundle",
+   "fullName": "HAVIQ_195_Test_Aura/HAVIQ_195_Test_Aura.cmp",
+   "lastModifiedDate": "2026-11-23T14:01:47.000Z",
+   "files": []
+  }
+ ]
+}
