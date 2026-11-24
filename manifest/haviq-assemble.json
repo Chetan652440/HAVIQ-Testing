@@ -1,0 +1,9 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HAVIQ_195_Test_Class.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HAVIQ_195_Test_Class.cls",
+    "label" : "ApexClass:HAVIQ_195_Test_Class"
+  } ],
+  "sourceBranch" : "dev"
+}
