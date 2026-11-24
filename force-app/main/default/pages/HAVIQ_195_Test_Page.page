@@ -1,0 +1,4 @@
+<apex:page >
+    <h1>HAV-IQ 1.95 Regression Test</h1>
+    <p>Basic Visualforce page for metadata deployment testing.</p>
+</apex:page>
