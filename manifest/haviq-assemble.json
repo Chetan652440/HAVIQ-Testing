@@ -1,9 +1,0 @@
-{
-  "components" : [ {
-    "prefixes" : [ ],
-    "required" : [ ],
-    "primary" : "force-app/main/default/tabs/HAVIQ_195_Test_Web_Tab.tab-meta.xml",
-    "label" : "CustomTab:HAVIQ_195_Test_Web_Tab"
-  } ],
-  "sourceBranch" : "dev"
-}
