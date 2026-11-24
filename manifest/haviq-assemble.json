@@ -1,0 +1,9 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/objects/Account/webLinks/HAVIQ_Test_WebLink.webLink-meta.xml",
+    "label" : "WebLink:Account.HAVIQ_Test_WebLink"
+  } ],
+  "sourceBranch" : "dev"
+}
