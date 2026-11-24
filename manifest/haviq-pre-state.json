@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000BrravAAB",
+ "components": [
+  {
+   "type": "RemoteSiteSetting",
+   "fullName": "HAVIQ_195_Test_Remote_Site",
+   "lastModifiedDate": "2026-11-20T15:58:38.000Z",
+   "files": [
+    "remoteSiteSettings/HAVIQ_195_Test_Remote_Site.remoteSite-meta.xml"
+   ]
+  }
+ ]
+}
