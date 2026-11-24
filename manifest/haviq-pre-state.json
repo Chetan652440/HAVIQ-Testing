@@ -1,0 +1,23 @@
+{
+ "deployment": "a06g800000BrJkXAAV",
+ "components": [
+  {
+   "type": "ApexClass",
+   "fullName": "HAVIQSampleTriggerTest",
+   "lastModifiedDate": "2026-11-18T11:06:02.000Z",
+   "files": [
+    "classes/HAVIQSampleTriggerTest.cls",
+    "classes/HAVIQSampleTriggerTest.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexTrigger",
+   "fullName": "HAVIQSampleTrigger",
+   "lastModifiedDate": "2026-11-18T11:06:02.000Z",
+   "files": [
+    "triggers/HAVIQSampleTrigger.trigger",
+    "triggers/HAVIQSampleTrigger.trigger-meta.xml"
+   ]
+  }
+ ]
+}
