@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000BrrcXAAR",
+ "components": [
+  {
+   "type": "NamedCredential",
+   "fullName": "HAVIQ_195_Test_Named_Credential",
+   "lastModifiedDate": "2026-11-20T16:16:55.000Z",
+   "files": [
+    "namedCredentials/HAVIQ_195_Test_Named_Credential.namedCredential-meta.xml"
+   ]
+  }
+ ]
+}
