@@ -1,9 +1,0 @@
-{
-  "components" : [ {
-    "prefixes" : [ ],
-    "required" : [ ],
-    "primary" : "force-app/main/default/objects/Account/validationRules/HAVIQ_195_Test_Validation_Rule.validationRule-meta.xml",
-    "label" : "ValidationRule:Account.HAVIQ_195_Test_Validation_Rule"
-  } ],
-  "sourceBranch" : "dev"
-}
