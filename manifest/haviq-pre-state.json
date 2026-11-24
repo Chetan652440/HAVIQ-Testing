@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000BrQkPAAV",
+ "components": [
+  {
+   "type": "CustomApplication",
+   "fullName": "HAVIQ_195_Test_App",
+   "lastModifiedDate": "2026-11-20T11:56:34.000Z",
+   "files": [
+    "applications/HAVIQ_195_Test_App.app-meta.xml"
+   ]
+  }
+ ]
+}
