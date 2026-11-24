@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000Bs4hpAAB",
+ "components": [
+  {
+   "type": "Workflow",
+   "fullName": "CampaignMember",
+   "lastModifiedDate": "2026-11-24T15:50:23.475Z",
+   "files": [
+    "workflows/CampaignMember.workflow-meta.xml"
+   ]
+  }
+ ]
+}
