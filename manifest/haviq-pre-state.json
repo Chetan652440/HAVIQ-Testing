@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000BrdUuAAJ",
+ "components": [
+  {
+   "type": "CustomTab",
+   "fullName": "HAVIQ_195_Test_Web_Tab",
+   "lastModifiedDate": "2026-11-20T15:50:51.000Z",
+   "files": [
+    "tabs/HAVIQ_195_Test_Web_Tab.tab-meta.xml"
+   ]
+  }
+ ]
+}
