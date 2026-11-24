@@ -1,0 +1,14 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HAVIQSampleApexTest.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HAVIQSampleApexTest.cls",
+    "label" : "ApexClass:HAVIQSampleApexTest"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HAVIQSampleApex.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HAVIQSampleApex.cls",
+    "label" : "ApexClass:HAVIQSampleApex"
+  } ],
+  "sourceBranch" : "dev"
+}
