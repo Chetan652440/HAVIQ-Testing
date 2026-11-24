@@ -1,9 +1,0 @@
-{
-  "components" : [ {
-    "prefixes" : [ ],
-    "required" : [ ],
-    "primary" : "force-app/main/default/permissionsets/HAVIQ_195_Test_Permission_Set.permissionset-meta.xml",
-    "label" : "PermissionSet:HAVIQ_195_Test_Permission_Set"
-  } ],
-  "sourceBranch" : "dev"
-}
