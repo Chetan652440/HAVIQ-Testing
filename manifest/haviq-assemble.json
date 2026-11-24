@@ -1,9 +1,0 @@
-{
-  "components" : [ {
-    "prefixes" : [ "force-app/main/default/objects/HAVIQ_195_Test_Object__c/" ],
-    "required" : [ ],
-    "primary" : "force-app/main/default/objects/HAVIQ_195_Test_Object__c/HAVIQ_195_Test_Object__c.object-meta.xml",
-    "label" : "CustomObject:HAVIQ_195_Test_Object__c"
-  } ],
-  "sourceBranch" : "dev"
-}
