@@ -1,0 +1,9 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/applications/HAVIQ_195_Test_App.app-meta.xml",
+    "label" : "CustomApplication:HAVIQ_195_Test_App"
+  } ],
+  "sourceBranch" : "dev"
+}
