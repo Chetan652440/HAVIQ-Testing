@@ -1,0 +1,21 @@
+{
+ "deployment": "a06g800000BrrflAAB",
+ "components": [
+  {
+   "type": "WebLink",
+   "fullName": "Account.HAVIQ_Test_WebLink",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/Account/webLinks/HAVIQ_Test_WebLink.webLink-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObject",
+   "fullName": "Account",
+   "lastModifiedDate": "2026-11-24T15:34:42.978Z",
+   "files": [
+    "objects/Account/Account.object-meta.xml"
+   ]
+  }
+ ]
+}
