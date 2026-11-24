@@ -1,0 +1,9 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/customMetadata/HAVIQ_193_Test_Config.HAVIQ_193_Test_Config_Record.md-meta.xml",
+    "label" : "CustomMetadata:HAVIQ_193_Test_Config.HAVIQ_193_Test_Config_Record"
+  } ],
+  "sourceBranch" : "dev"
+}
