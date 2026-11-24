@@ -1,7 +1,0 @@
-{
-  "commitMessage" : "Deploy: Dev → QA [haviq] [haviq-dep:a06g800000Bt1ErAAJ]",
-  "decisions" : { },
-  "rules" : [ ],
-  "targetBranch" : "qa",
-  "workItemBranch" : "feature/testing-haviq-195nov24"
-}
