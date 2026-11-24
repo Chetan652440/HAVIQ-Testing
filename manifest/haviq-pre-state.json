@@ -1,0 +1,14 @@
+{
+ "deployment": "a06g800000Bt1ErAAJ",
+ "components": [
+  {
+   "type": "ApexClass",
+   "fullName": "HAVIQ_195_Test_Class",
+   "lastModifiedDate": "2026-11-20T10:50:43.000Z",
+   "files": [
+    "classes/HAVIQ_195_Test_Class.cls",
+    "classes/HAVIQ_195_Test_Class.cls-meta.xml"
+   ]
+  }
+ ]
+}
