@@ -1,0 +1,13 @@
+{
+ "deployment": "a06g800000BrHmrAAF",
+ "components": [
+  {
+   "type": "CustomMetadata",
+   "fullName": "HAVIQ_193_Test_Config.HAVIQ_193_Test_Config_Record",
+   "lastModifiedDate": "2026-11-18T12:50:18.000Z",
+   "files": [
+    "customMetadata/HAVIQ_193_Test_Config.HAVIQ_193_Test_Config_Record.md-meta.xml"
+   ]
+  }
+ ]
+}
