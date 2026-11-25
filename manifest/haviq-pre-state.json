@@ -1,0 +1,41 @@
+{
+ "deployment": "a06g800000ButebAAB",
+ "components": [
+  {
+   "type": "ApexPage",
+   "fullName": "HAVIQ_195_Metadata_ApexPage",
+   "lastModifiedDate": "2026-11-25T06:47:42.000Z",
+   "files": [
+    "pages/HAVIQ_195_Metadata_ApexPage.page",
+    "pages/HAVIQ_195_Metadata_ApexPage.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HAVIQ_195_Metadata_ApexClass_Test",
+   "lastModifiedDate": "2026-11-25T10:45:28.000Z",
+   "files": [
+    "classes/HAVIQ_195_Metadata_ApexClass_Test.cls",
+    "classes/HAVIQ_195_Metadata_ApexClass_Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HAVIQ_195_Metadata_ApexClass",
+   "lastModifiedDate": "2026-11-25T10:45:28.000Z",
+   "files": [
+    "classes/HAVIQ_195_Metadata_ApexClass.cls",
+    "classes/HAVIQ_195_Metadata_ApexClass.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexTrigger",
+   "fullName": "HAVIQ_195_Metadata_ApexTrigger",
+   "lastModifiedDate": "2026-11-25T10:45:28.000Z",
+   "files": [
+    "triggers/HAVIQ_195_Metadata_ApexTrigger.trigger",
+    "triggers/HAVIQ_195_Metadata_ApexTrigger.trigger-meta.xml"
+   ]
+  }
+ ]
+}
