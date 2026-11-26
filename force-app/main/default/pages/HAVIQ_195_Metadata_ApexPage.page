@@ -1,0 +1,13 @@
+<apex:page showHeader="true" sidebar="false">
+
+    <apex:sectionHeader title="HAV-IQ 1.95 Basic Apex Page"
+        subtitle="Metadata Deployment Testing"
+    />
+
+    <apex:outputPanel layout="block">
+        <h1>Welcome to HAV-IQ</h1>
+        <p>Basic Visualforce page created successfully.</p>
+        <p>Created for HAV-IQ metadata regression testing.</p>
+    </apex:outputPanel>
+
+</apex:page>
