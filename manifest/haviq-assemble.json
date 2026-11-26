@@ -1,0 +1,134 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HAVIQ_195_Metadata_ApexClass.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HAVIQ_195_Metadata_ApexClass.cls",
+    "label" : "ApexClass:HAVIQ_195_Metadata_ApexClass"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HAVIQ_195_Metadata_ApexClass_Test.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HAVIQ_195_Metadata_ApexClass_Test.cls",
+    "label" : "ApexClass:HAVIQ_195_Metadata_ApexClass_Test"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/triggers/HAVIQ_195_Metadata_ApexTrigger.trigger-meta.xml" ],
+    "primary" : "force-app/main/default/triggers/HAVIQ_195_Metadata_ApexTrigger.trigger",
+    "label" : "ApexTrigger:HAVIQ_195_Metadata_ApexTrigger"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/pages/HAVIQ_195_Metadata_ApexPage.page-meta.xml" ],
+    "primary" : "force-app/main/default/pages/HAVIQ_195_Metadata_ApexPage.page",
+    "label" : "ApexPage:HAVIQ_195_Metadata_ApexPage"
+  }, {
+    "prefixes" : [ "force-app/main/default/lwc/haviq195MetadataLwc/" ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/lwc/haviq195MetadataLwc/haviq195MetadataLwc.js",
+    "label" : "LightningComponentBundle:haviq195MetadataLwc"
+  }, {
+    "prefixes" : [ "force-app/main/default/aura/HAVIQ195MetadataAura/" ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/aura/HAVIQ195MetadataAura/HAVIQ195MetadataAura.cmp",
+    "label" : "AuraDefinitionBundle:HAVIQ195MetadataAura"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/flows/HAVIQ_195_Metadata_Test_Flow.flow-meta.xml",
+    "label" : "Flow:HAVIQ_195_Metadata_Test_Flow"
+  }, {
+    "prefixes" : [ "force-app/main/default/objects/HAVIQ_195_Metadata_Test_Object__c/" ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/objects/HAVIQ_195_Metadata_Test_Object__c/HAVIQ_195_Metadata_Test_Object__c.object-meta.xml",
+    "label" : "CustomObject:HAVIQ_195_Metadata_Test_Object__c"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/objects/HAVIQ_195_Metadata_Config__mdt/fields/Test_Value__c.field-meta.xml",
+    "label" : "CustomField:HAVIQ_195_Metadata_Config__mdt.Test_Value__c"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/customMetadata/HAVIQ_195_Metadata_Config.Basic_Record.md-meta.xml",
+    "label" : "CustomMetadata:HAVIQ_195_Metadata_Config.Basic_Record"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/layouts/HAVIQ_195_Metadata_Test_Object__c-HAVIQ_195_Metadata_Test_Layout.layout-meta.xml",
+    "label" : "Layout:HAVIQ_195_Metadata_Test_Object__c-HAVIQ_195_Metadata_Test_Layout"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/flexipages/HAVIQ_195_Metadata_Test_FlexiPage.flexipage-meta.xml",
+    "label" : "FlexiPage:HAVIQ_195_Metadata_Test_FlexiPage"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/tabs/HAVIQ_195_Test_Web_Tab.tab-meta.xml",
+    "label" : "CustomTab:HAVIQ_195_Test_Web_Tab"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/permissionsets/HAVIQ_195_Metadata_Regression_PermissionSet.permissionset-meta.xml",
+    "label" : "PermissionSet:HAVIQ_195_Metadata_Regression_PermissionSet"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/profiles/HAVIQ 195 Metadata Test Profile.profile-meta.xml",
+    "label" : "Profile:HAVIQ 195 Metadata Test Profile"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/objects/HAVIQ_195_Metadata_Test_Object__c/validationRules/HAVIQ_195_Metadata_Test_Validation.validationRule-meta.xml",
+    "label" : "ValidationRule:HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_Validation"
+  }, {
+    "inline" : {
+      "member" : "HAVIQ_195_Metadata_Test_Workflow_Rule",
+      "element" : "rules",
+      "root" : "Workflow"
+    },
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/workflows/HAVIQ_195_Metadata_Test_Object__c.workflow-meta.xml",
+    "label" : "WorkflowRule:HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_Workflow_Rule"
+  }, {
+    "inline" : {
+      "member" : "HAVIQ_195_Metadata_Test_Label",
+      "element" : "labels",
+      "root" : "CustomLabels"
+    },
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/labels/CustomLabels.labels-meta.xml",
+    "label" : "CustomLabel:HAVIQ_195_Metadata_Test_Label"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/remoteSiteSettings/HAVIQ_195_Metadata_Remote_Site.remoteSite-meta.xml",
+    "label" : "RemoteSiteSetting:HAVIQ_195_Metadata_Remote_Site"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/namedCredentials/HAVIQ_195_Metadata_Test_Named_Credential.namedCredential-meta.xml",
+    "label" : "NamedCredential:HAVIQ_195_Metadata_Test_Named_Credential"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/applications/HAVIQ_195_Metadata_Test_App.app-meta.xml",
+    "label" : "CustomApplication:HAVIQ_195_Metadata_Test_App"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/objects/HAVIQ_195_Metadata_Test_Object__c/webLinks/HAVIQ_195_Metadata_Test_WebLink.webLink-meta.xml",
+    "label" : "WebLink:HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_WebLink"
+  }, {
+    "inline" : {
+      "member" : "HAVIQ_195_Metadata_Test_Workflow_Alert",
+      "element" : "alerts",
+      "root" : "Workflow"
+    },
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/workflows/HAVIQ_195_Metadata_Test_Object__c.workflow-meta.xml",
+    "label" : "WorkflowAlert:HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_Workflow_Alert"
+  } ],
+  "sourceBranch" : "dev"
+}
