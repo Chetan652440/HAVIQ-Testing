@@ -1,0 +1,21 @@
+<aura:component
+    implements="flexipage:availableForAllPageTypes,force:appHostable"
+    access="global">
+
+    <aura:attribute
+        name="message"
+        type="String"
+        default="HAV-IQ 1.95 Aura created successfully."
+    />
+
+    <lightning:card title="HAV-IQ 1.95 Basic Aura">
+        <div class="slds-p-around_medium">
+            <p>{!v.message}</p>
+            <lightning:button
+                label="Click Me"
+                onclick="{!c.handleClick}"
+            />
+        </div>
+    </lightning:card>
+
+</aura:component>
