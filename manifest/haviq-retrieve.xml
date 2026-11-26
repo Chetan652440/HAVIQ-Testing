@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  HAV-IQ delta manifest — auto-generated per deploy.
+  Lists ONLY the components selected for this specific deploy.
+  Components NOT listed here are NOT removed from the target org.
+  Destructive removals go in manifest/destructiveChanges.xml.
+-->
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>HAVIQ_195_Metadata_ApexClass</members>
+        <members>HAVIQ_195_Metadata_ApexClass_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_ApexTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_ApexPage</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>haviq195MetadataLwc</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>HAVIQ195MetadataAura</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Flow</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Object__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Config__mdt.Test_Value__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Config.Basic_Record</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Object__c-HAVIQ_195_Metadata_Test_Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_FlexiPage</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Test_Web_Tab</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Regression_PermissionSet</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>HAVIQ 195 Metadata Test Profile</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_Validation</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_Workflow_Rule</members>
+        <name>WorkflowRule</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Label</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Remote_Site</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Named_Credential</members>
+        <name>NamedCredential</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_App</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_WebLink</members>
+        <name>WebLink</name>
+    </types>
+    <types>
+        <members>HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_Workflow_Alert</members>
+        <name>WorkflowAlert</name>
+    </types>
+    <version>64.0</version>
+</Package>
