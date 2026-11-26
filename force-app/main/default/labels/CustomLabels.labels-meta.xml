@@ -8,4 +8,12 @@
         <shortDescription>HAVIQ 195 Test Label</shortDescription>
         <value>HAV-IQ 1.95 Regression Test</value>
     </labels>
+    <labels>
+        <fullName>HAVIQ_195_Metadata_Test_Label</fullName>
+        <categories>HAVIQ195</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HAV-IQ 1.95 Custom Label metadata test</shortDescription>
+        <value>HAV-IQ 1.95 Custom Label created successfully.</value>
+    </labels>
 </CustomLabels>
