@@ -1,6 +1,0 @@
-force-app/main/default/customMetadata
-force-app/main/default/flexipages
-force-app/main/default/layouts
-force-app/main/default/objects/HAVIQ_195_Metadata_Config__mdt/fields
-force-app/main/default/objects/HAVIQ_195_Metadata_Test_Object__c
-force-app/main/default/tabs
