@@ -1,0 +1,34 @@
+{
+  "components" : [ {
+    "prefixes" : [ "force-app/main/default/objects/HAVIQ_195_Metadata_Test_Object__c/" ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/objects/HAVIQ_195_Metadata_Test_Object__c/HAVIQ_195_Metadata_Test_Object__c.object-meta.xml",
+    "label" : "CustomObject:HAVIQ_195_Metadata_Test_Object__c"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/objects/HAVIQ_195_Metadata_Config__mdt/fields/Test_Value__c.field-meta.xml",
+    "label" : "CustomField:HAVIQ_195_Metadata_Config__mdt.Test_Value__c"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/customMetadata/HAVIQ_193_Test_Config.HAVIQ_193_Test_Config_Record.md-meta.xml",
+    "label" : "CustomMetadata:HAVIQ_193_Test_Config.HAVIQ_193_Test_Config_Record"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/layouts/HAVIQ_195_Metadata_Test_Object__c-HAVIQ_195_Metadata_Test_Layout.layout-meta.xml",
+    "label" : "Layout:HAVIQ_195_Metadata_Test_Object__c-HAVIQ_195_Metadata_Test_Layout"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/flexipages/HAVIQ_195_Metadata_Test_FlexiPage.flexipage-meta.xml",
+    "label" : "FlexiPage:HAVIQ_195_Metadata_Test_FlexiPage"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/tabs/HAVIQ_195_Test_Web_Tab.tab-meta.xml",
+    "label" : "CustomTab:HAVIQ_195_Test_Web_Tab"
+  } ],
+  "sourceBranch" : "dev"
+}
