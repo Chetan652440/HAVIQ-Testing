@@ -1,0 +1,39 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HAVIQ_195_Metadata_ApexClass.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HAVIQ_195_Metadata_ApexClass.cls",
+    "label" : "ApexClass:HAVIQ_195_Metadata_ApexClass"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HAVIQ_195_Metadata_ApexClass_Test.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HAVIQ_195_Metadata_ApexClass_Test.cls",
+    "label" : "ApexClass:HAVIQ_195_Metadata_ApexClass_Test"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/triggers/HAVIQ_195_Metadata_ApexTrigger.trigger-meta.xml" ],
+    "primary" : "force-app/main/default/triggers/HAVIQ_195_Metadata_ApexTrigger.trigger",
+    "label" : "ApexTrigger:HAVIQ_195_Metadata_ApexTrigger"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/pages/HAVIQ_195_Metadata_ApexPage.page-meta.xml" ],
+    "primary" : "force-app/main/default/pages/HAVIQ_195_Metadata_ApexPage.page",
+    "label" : "ApexPage:HAVIQ_195_Metadata_ApexPage"
+  }, {
+    "prefixes" : [ "force-app/main/default/lwc/haviq195MetadataLwc/" ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/lwc/haviq195MetadataLwc/haviq195MetadataLwc.js",
+    "label" : "LightningComponentBundle:haviq195MetadataLwc"
+  }, {
+    "prefixes" : [ "force-app/main/default/aura/HAVIQ195MetadataAura/" ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/aura/HAVIQ195MetadataAura/HAVIQ195MetadataAura.cmp",
+    "label" : "AuraDefinitionBundle:HAVIQ195MetadataAura"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/flows/HAVIQ_195_Metadata_Test_Flow.flow-meta.xml",
+    "label" : "Flow:HAVIQ_195_Metadata_Test_Flow"
+  } ],
+  "sourceBranch" : "dev"
+}
