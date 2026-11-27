@@ -1,6 +1,0 @@
-force-app/main/default/aura/HAVIQ195MetadataAura
-force-app/main/default/classes
-force-app/main/default/flows
-force-app/main/default/lwc/haviq195MetadataLwc
-force-app/main/default/pages
-force-app/main/default/triggers
