@@ -1,5 +1,0 @@
-force-app/main/default/applications
-force-app/main/default/namedCredentials
-force-app/main/default/objects/HAVIQ_195_Metadata_Test_Object__c/webLinks
-force-app/main/default/remoteSiteSettings
-force-app/main/default/workflows
