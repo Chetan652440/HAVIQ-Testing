@@ -1,0 +1,93 @@
+{
+ "deployment": "a06g800000C0HhtAAF",
+ "components": [
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "haviq195MetadataLwc",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/haviq195MetadataLwc/haviq195MetadataLwc.html",
+    "lwc/haviq195MetadataLwc/haviq195MetadataLwc.js",
+    "lwc/haviq195MetadataLwc/haviq195MetadataLwc.js-meta.xml"
+   ]
+  },
+  {
+   "type": "AuraDefinitionBundle",
+   "fullName": "HAVIQ195MetadataAura",
+   "lastModifiedDate": null,
+   "files": [
+    "aura/HAVIQ195MetadataAura/HAVIQ195MetadataAura.cmp",
+    "aura/HAVIQ195MetadataAura/HAVIQ195MetadataAura.cmp-meta.xml",
+    "aura/HAVIQ195MetadataAura/HAVIQ195MetadataAuraController.js"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HAVIQ_195_Metadata_ApexPage",
+   "lastModifiedDate": "2026-11-25T10:40:48.000Z",
+   "files": [
+    "pages/HAVIQ_195_Metadata_ApexPage.page",
+    "pages/HAVIQ_195_Metadata_ApexPage.page-meta.xml"
+   ]
+  },
+  {
+   "type": "Flow",
+   "fullName": "HAVIQ_195_Metadata_Test_Flow",
+   "lastModifiedDate": "2026-11-25T08:22:38.000Z",
+   "files": [
+    "flows/HAVIQ_195_Metadata_Test_Flow.flow-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HAVIQ_195_Metadata_ApexClass_Test",
+   "lastModifiedDate": "2026-11-26T14:18:18.000Z",
+   "files": [
+    "classes/HAVIQ_195_Metadata_ApexClass_Test.cls",
+    "classes/HAVIQ_195_Metadata_ApexClass_Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HAVIQ_195_Metadata_ApexClass",
+   "lastModifiedDate": "2026-11-26T14:18:18.000Z",
+   "files": [
+    "classes/HAVIQ_195_Metadata_ApexClass.cls",
+    "classes/HAVIQ_195_Metadata_ApexClass.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexTrigger",
+   "fullName": "HAVIQ_195_Metadata_ApexTrigger",
+   "lastModifiedDate": "2026-11-26T14:18:19.000Z",
+   "files": [
+    "triggers/HAVIQ_195_Metadata_ApexTrigger.trigger",
+    "triggers/HAVIQ_195_Metadata_ApexTrigger.trigger-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "haviq195MetadataLwc/haviq195MetadataLwc.html",
+   "lastModifiedDate": "2026-11-26T14:18:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "haviq195MetadataLwc/haviq195MetadataLwc.js",
+   "lastModifiedDate": "2026-11-26T14:18:11.000Z",
+   "files": []
+  },
+  {
+   "type": "AuraDefinitionBundle",
+   "fullName": "HAVIQ195MetadataAura/HAVIQ195MetadataAuraController.js",
+   "lastModifiedDate": "2026-11-26T14:18:11.000Z",
+   "files": []
+  },
+  {
+   "type": "AuraDefinitionBundle",
+   "fullName": "HAVIQ195MetadataAura/HAVIQ195MetadataAura.cmp",
+   "lastModifiedDate": "2026-11-26T14:18:11.000Z",
+   "files": []
+  }
+ ]
+}
