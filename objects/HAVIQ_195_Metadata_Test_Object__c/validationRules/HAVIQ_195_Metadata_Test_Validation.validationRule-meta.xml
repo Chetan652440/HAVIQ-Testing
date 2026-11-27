@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HAVIQ_195_Metadata_Test_Validation</fullName>
+    <active>false</active>
+    <description>Inactive validation rule for HAV-IQ regression testing.</description>
+    <errorConditionFormula>LEN(HAVIQ_195_Metadata_Test_Field__c) &gt; 100</errorConditionFormula>
+    <errorMessage>HAVIQ test field must not exceed 100 characters.</errorMessage>
+</ValidationRule>
