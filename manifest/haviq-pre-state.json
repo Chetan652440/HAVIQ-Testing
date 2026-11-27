@@ -1,0 +1,53 @@
+{
+ "deployment": "a06g800000C0KxVAAV",
+ "components": [
+  {
+   "type": "NamedCredential",
+   "fullName": "HAVIQ_195_Metadata_Test_Named_Credential",
+   "lastModifiedDate": "2026-11-25T09:32:52.000Z",
+   "files": [
+    "namedCredentials/HAVIQ_195_Metadata_Test_Named_Credential.namedCredential-meta.xml"
+   ]
+  },
+  {
+   "type": "WebLink",
+   "fullName": "HAVIQ_195_Metadata_Test_Object__c.HAVIQ_195_Metadata_Test_WebLink",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HAVIQ_195_Metadata_Test_Object__c/webLinks/HAVIQ_195_Metadata_Test_WebLink.webLink-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObject",
+   "fullName": "HAVIQ_195_Metadata_Test_Object__c",
+   "lastModifiedDate": "2026-11-25T11:25:28.000Z",
+   "files": [
+    "objects/HAVIQ_195_Metadata_Test_Object__c/HAVIQ_195_Metadata_Test_Object__c.object-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomApplication",
+   "fullName": "HAVIQ_195_Metadata_Test_App",
+   "lastModifiedDate": "2026-11-25T09:32:53.000Z",
+   "files": [
+    "applications/HAVIQ_195_Metadata_Test_App.app-meta.xml"
+   ]
+  },
+  {
+   "type": "Workflow",
+   "fullName": "HAVIQ_195_Metadata_Test_Object__c",
+   "lastModifiedDate": "2026-11-25T11:25:28.000Z",
+   "files": [
+    "workflows/HAVIQ_195_Metadata_Test_Object__c.workflow-meta.xml"
+   ]
+  },
+  {
+   "type": "RemoteSiteSetting",
+   "fullName": "HAVIQ_195_Metadata_Remote_Site",
+   "lastModifiedDate": "2026-11-25T09:32:53.000Z",
+   "files": [
+    "remoteSiteSettings/HAVIQ_195_Metadata_Remote_Site.remoteSite-meta.xml"
+   ]
+  }
+ ]
+}
